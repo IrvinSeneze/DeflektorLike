@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/bleu.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/bloc.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/boule.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/laser.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/lens.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/metal.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/mine.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/mine1.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/miroir.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/miroir1.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/miroir_tranche.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/output.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/prisme.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/prisme1.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/recepteur.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/repeteur.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/rotator.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/socle.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/socle_miroir.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/socle_repeteur.uasset"
+			]
+		}
+	]
+}

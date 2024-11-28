@@ -25,15 +25,17 @@
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/socle.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/socle_miroir.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/socle_repeteur.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/BP_Laser.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Map/map_test.umap",
-				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/A_Laser_Parents.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/A_Lasers_Parents.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/BPI_Lasers.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/A_Laser.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/A_LaserSpawn.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Map/_GENERATED/ZachariaSalem/Cylinder_1A5205F3.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/Materials/M_Laser.uasset"
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Resources/Materials/M_Laser.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Map/BP_Wall.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/BP_Wall.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/BP_Laser.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/A_Laser_Parents.uasset"
 			]
 		}
 	]

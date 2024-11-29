@@ -13,7 +13,9 @@
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/BP_Mirror.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Map/map_test.umap",
 				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/BP_Camera.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/BP_PlayerControler.uasset"
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/BP_PlayerControler.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/A_Lasers_Parents.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/Deflektor/Content/Blueprint/A_Laser.uasset"
 			]
 		}
 	]
